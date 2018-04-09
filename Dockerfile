@@ -1,5 +1,5 @@
 FROM ubuntu:16.04
-MAINTAINER Patcharin Cheng <patcharin_c@ttet.co.th>
+MAINTAINER Patcharin Cheng
 
 # Define working directory.
 WORKDIR /root
